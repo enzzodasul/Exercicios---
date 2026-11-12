@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18pt;
+    color: aliceblue;
+    background-color: rgb(5, 15, 1);
+
+}
+
+.caixatexto {
+    background: #ff0;
+    border: 0;
+    border: 1px solid #000;
+    font-size: 18pt;
+
+}
+
+form {
+    width: 400px;
+    border: 22px double #f00;
+    padding: 30px;
+}
